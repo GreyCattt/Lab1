@@ -1,0 +1,15 @@
+C:\Users\GreyCatt\Labs\Lab1-1\C#\SquareProg\bin\Debug\net9.0\SquareProg.exe
+C:\Users\GreyCatt\Labs\Lab1-1\C#\SquareProg\bin\Debug\net9.0\SquareProg.deps.json
+C:\Users\GreyCatt\Labs\Lab1-1\C#\SquareProg\bin\Debug\net9.0\SquareProg.runtimeconfig.json
+C:\Users\GreyCatt\Labs\Lab1-1\C#\SquareProg\bin\Debug\net9.0\SquareProg.dll
+C:\Users\GreyCatt\Labs\Lab1-1\C#\SquareProg\bin\Debug\net9.0\SquareProg.pdb
+C:\Users\GreyCatt\Labs\Lab1-1\C#\SquareProg\obj\Debug\net9.0\SquareProg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GreyCatt\Labs\Lab1-1\C#\SquareProg\obj\Debug\net9.0\SquareProg.AssemblyInfoInputs.cache
+C:\Users\GreyCatt\Labs\Lab1-1\C#\SquareProg\obj\Debug\net9.0\SquareProg.AssemblyInfo.cs
+C:\Users\GreyCatt\Labs\Lab1-1\C#\SquareProg\obj\Debug\net9.0\SquareProg.csproj.CoreCompileInputs.cache
+C:\Users\GreyCatt\Labs\Lab1-1\C#\SquareProg\obj\Debug\net9.0\SquareProg.sourcelink.json
+C:\Users\GreyCatt\Labs\Lab1-1\C#\SquareProg\obj\Debug\net9.0\SquareProg.dll
+C:\Users\GreyCatt\Labs\Lab1-1\C#\SquareProg\obj\Debug\net9.0\refint\SquareProg.dll
+C:\Users\GreyCatt\Labs\Lab1-1\C#\SquareProg\obj\Debug\net9.0\SquareProg.pdb
+C:\Users\GreyCatt\Labs\Lab1-1\C#\SquareProg\obj\Debug\net9.0\SquareProg.genruntimeconfig.cache
+C:\Users\GreyCatt\Labs\Lab1-1\C#\SquareProg\obj\Debug\net9.0\ref\SquareProg.dll

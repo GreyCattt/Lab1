@@ -46,8 +46,8 @@ namespace SquareProg
         public double X4 => x4;
         public double Y4 => y4;
     
-    public bool CheckEqualSides()
-    {
+        public bool CheckEqualSides()
+        {
             double[] sides = new double[4]
             {
                 Math.Sqrt(Math.Pow(x2 - x1, 2) + Math.Pow(y2 - y1, 2)),
@@ -56,8 +56,20 @@ namespace SquareProg
                 Math.Sqrt(Math.Pow(x1 - x4, 2) + Math.Pow(y1 - y4, 2))
             };
 
-            return sides.All(side => side == sides[0]);
-    }
+            if (!sides.All(side => side == sides[0]))
+            {
+                return false;
+            }
+
+            double[] diameters = new double[2]
+            {
+                Math.Sqrt(Math.Pow(x3 - x1, 2) + Math.Pow(y3 - y1, 2)),
+                Math.Sqrt(Math.Pow(x4 - x2, 2) + Math.Pow(y4 - y2, 2))
+            };
+
+            return diameters[0] == diameters[1];
+        }
+
         public double ResPerimeter()
         {
             double sideA = Math.Sqrt(Math.Pow(x2 - x1, 2) + Math.Pow(y2 - y1, 2));

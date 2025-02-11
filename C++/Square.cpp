@@ -51,6 +51,12 @@ double Square::resArea() const
 }
 bool Square::isSquare() const
 {
+    //diametre
+    double d1 = sqrt(pow(x3 - x1, 2) + pow(y3 - y1, 2));
+    double d2 = sqrt(pow(x4 - x2, 2) + pow(y4 - y2, 2));
+    if (d1 != d2)
+    {return false;}
+    
     double side1 = sqrt(pow(x2 - x1, 2) + pow(y2 - y1, 2));
     double side2 = sqrt(pow(x3 - x2, 2) + pow(y3 - y2, 2));
     double side3 = sqrt(pow(x4 - x3, 2) + pow(y4 - y3, 2));
